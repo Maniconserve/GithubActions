@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learnings\\GithubActions\\GithubActions\\GithubActions.csproj": {}
+    "D:\\Learnings\\GithubActions\\GithubActions.csproj": {}
   },
   "projects": {
-    "D:\\Learnings\\GithubActions\\GithubActions\\GithubActions.csproj": {
+    "D:\\Learnings\\GithubActions\\GithubActions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learnings\\GithubActions\\GithubActions\\GithubActions.csproj",
+        "projectUniqueName": "D:\\Learnings\\GithubActions\\GithubActions.csproj",
         "projectName": "GithubActions",
-        "projectPath": "D:\\Learnings\\GithubActions\\GithubActions\\GithubActions.csproj",
+        "projectPath": "D:\\Learnings\\GithubActions\\GithubActions.csproj",
         "packagesPath": "C:\\Users\\Manideep Vemula\\.nuget\\packages\\",
-        "outputPath": "D:\\Learnings\\GithubActions\\GithubActions\\obj\\",
+        "outputPath": "D:\\Learnings\\GithubActions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
